@@ -1,5 +1,5 @@
-## AlexBerUtils
+## AlexBerDocs
 
-AlexBerUtils is collection of documents, mainly how-tos. See CHANGELOG.md for detail description.
+AlexBerDocs is collection of documents, mainly how-tos. See CHANGELOG.md for detail description.
 
 
