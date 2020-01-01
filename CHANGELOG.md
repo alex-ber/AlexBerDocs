@@ -9,6 +9,7 @@ Git/Git Tutorial.docx
 ### Added
 Git/Git Tutorial.docx
 <!--
+
 ### Changed
 ### Removed
 -->
